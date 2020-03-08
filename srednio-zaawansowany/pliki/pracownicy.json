@@ -1,0 +1,14 @@
+[
+  {
+    "pracownik": "Jan Kowalski",
+    "pensja": 2500
+  },
+  {
+    "pracownik": "Joanna Dolegiewicz",
+    "pensja": 7500
+  },
+  {
+    "pracownik": "Katarzyna Kot",
+    "pensja": 10000
+  }
+]
